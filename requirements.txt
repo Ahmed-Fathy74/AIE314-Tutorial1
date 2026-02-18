@@ -1,0 +1,12 @@
+pandas
+PyPDF2
+python-docx
+python-pptx
+tabula-py
+pdfplumber
+transformers
+spacy
+openpyxl
+pillow
+ebooklib
+nltk
