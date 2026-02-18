@@ -1,0 +1,177 @@
+{
+    "file_type": "Excel",
+    "content": {
+        "Generating Student Information ": [
+            {
+                "Student ID": "STU-1001",
+                "First Name": "Liam",
+                "Last Name": "Anderson",
+                "Date of Birth": "2008-05-14",
+                "Grade Level": "10th",
+                "GPA": "3.85",
+                "Attendance %": "0.98",
+                "Major/Elective Focus": "Computer Science",
+                "Contact Email": "l.anderson@school.edu"
+            },
+            {
+                "Student ID": "STU-1002",
+                "First Name": "Olivia",
+                "Last Name": "Bennett",
+                "Date of Birth": "2007-11-22",
+                "Grade Level": "11th",
+                "GPA": "3.92",
+                "Attendance %": "0.95",
+                "Major/Elective Focus": "Advanced Mathematics",
+                "Contact Email": "o.bennett@school.edu"
+            },
+            {
+                "Student ID": "STU-1003",
+                "First Name": "Noah",
+                "Last Name": "Castillo",
+                "Date of Birth": "2009-02-10",
+                "Grade Level": "9th",
+                "GPA": "3.1",
+                "Attendance %": "0.88",
+                "Major/Elective Focus": "Visual Arts",
+                "Contact Email": "n.castillo@school.edu"
+            },
+            {
+                "Student ID": "STU-1004",
+                "First Name": "Emma",
+                "Last Name": "Davis",
+                "Date of Birth": "2007-08-30",
+                "Grade Level": "11th",
+                "GPA": "4.0",
+                "Attendance %": "1.0",
+                "Major/Elective Focus": "Biology/Pre-Med",
+                "Contact Email": "e.davis@school.edu"
+            },
+            {
+                "Student ID": "STU-1005",
+                "First Name": "Lucas",
+                "Last Name": "Evans",
+                "Date of Birth": "2006-12-05",
+                "Grade Level": "12th",
+                "GPA": "2.75",
+                "Attendance %": "0.82",
+                "Major/Elective Focus": "Physical Education",
+                "Contact Email": "l.evans@school.edu"
+            },
+            {
+                "Student ID": "STU-1006",
+                "First Name": "Sophia",
+                "Last Name": "Flores",
+                "Date of Birth": "2008-03-19",
+                "Grade Level": "10th",
+                "GPA": "3.6",
+                "Attendance %": "0.94",
+                "Major/Elective Focus": "English Literature",
+                "Contact Email": "s.flores@school.edu"
+            },
+            {
+                "Student ID": "STU-1007",
+                "First Name": "Ethan",
+                "Last Name": "Garcia",
+                "Date of Birth": "2009-07-25",
+                "Grade Level": "9th",
+                "GPA": "3.45",
+                "Attendance %": "0.91",
+                "Major/Elective Focus": "Robotics",
+                "Contact Email": "e.garcia@school.edu"
+            },
+            {
+                "Student ID": "STU-1008",
+                "First Name": "Mia",
+                "Last Name": "Hernandez",
+                "Date of Birth": "2007-04-12",
+                "Grade Level": "11th",
+                "GPA": "3.98",
+                "Attendance %": "0.99",
+                "Major/Elective Focus": "History",
+                "Contact Email": "m.hernandez@school.edu"
+            },
+            {
+                "Student ID": "STU-1009",
+                "First Name": "AJ",
+                "Last Name": "Iyer",
+                "Date of Birth": "2006-10-01",
+                "Grade Level": "12th",
+                "GPA": "3.88",
+                "Attendance %": "0.96",
+                "Major/Elective Focus": "Physics",
+                "Contact Email": "a.iyer@school.edu"
+            },
+            {
+                "Student ID": "STU-1010",
+                "First Name": "Isabella",
+                "Last Name": "Jenkins",
+                "Date of Birth": "2008-01-20",
+                "Grade Level": "10th",
+                "GPA": "3.2",
+                "Attendance %": "0.85",
+                "Major/Elective Focus": "Graphic Design",
+                "Contact Email": "i.jenkins@school.edu"
+            },
+            {
+                "Student ID": "STU-1011",
+                "First Name": "William",
+                "Last Name": "Kim",
+                "Date of Birth": "2009-11-14",
+                "Grade Level": "9th",
+                "GPA": "3.75",
+                "Attendance %": "0.97",
+                "Major/Elective Focus": "Chemistry",
+                "Contact Email": "w.kim@school.edu"
+            },
+            {
+                "Student ID": "STU-1012",
+                "First Name": "Charlotte",
+                "Last Name": "Lopez",
+                "Date of Birth": "2007-06-08",
+                "Grade Level": "11th",
+                "GPA": "3.5",
+                "Attendance %": "0.93",
+                "Major/Elective Focus": "Economics",
+                "Contact Email": "c.lopez@school.edu"
+            },
+            {
+                "Student ID": "STU-1013",
+                "First Name": "James",
+                "Last Name": "Miller",
+                "Date of Birth": "2006-09-17",
+                "Grade Level": "12th",
+                "GPA": "2.9",
+                "Attendance %": "0.8",
+                "Major/Elective Focus": "Music Theory",
+                "Contact Email": "j.miller@school.edu"
+            },
+            {
+                "Student ID": "STU-1014",
+                "First Name": "Amelia",
+                "Last Name": "Nguyen",
+                "Date of Birth": "2008-12-30",
+                "Grade Level": "10th",
+                "GPA": "4.0",
+                "Attendance %": "1.0",
+                "Major/Elective Focus": "Environmental Science",
+                "Contact Email": "a.nguyen@school.edu"
+            },
+            {
+                "Student ID": "STU-1015",
+                "First Name": "Benjamin",
+                "Last Name": "Ortiz",
+                "Date of Birth": "2009-04-05",
+                "Grade Level": "9th",
+                "GPA": "3.35",
+                "Attendance %": "0.89",
+                "Major/Elective Focus": "Theatre Arts",
+                "Contact Email": "b.ortiz@school.edu"
+            }
+        ]
+    },
+    "metadata": {
+        "author": "Unknown",
+        "date": "2025-02-18",
+        "source": "ExcelSample.xlsx"
+    }
+}
